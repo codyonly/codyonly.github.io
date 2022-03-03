@@ -1,9 +1,9 @@
 content_page1 = [
-    `<h3><strong>Konrad Gessner</strong></h3><img src="public/img/Apparence.jpg" style="width: auto;height: 75%;" alt="">`,
+    `<h3><strong>Otto Von Horburg</strong></h3><img src="public/img/Apparence.jpg" style="width: auto;height: 75%;" alt="">`,
     `
-    <h3><strong>13 Février XXX</strong></h3>
+    <h3><strong>20 Février XXX</strong></h3>
         <p>Aujourd’hui mère m’as offert ce carnet, je suis très heureux, depuis que j’ai appris à écrire j’ai toujours souhaité obtenir de quoi m'exprimer, et de cette façon je pense pouvoir m'exprimer</p> 
-    <h3><strong>14 Février XXX</strong></h3>
+    <h3><strong>25 Février XXX</strong></h3>
         <p>Mince, j'étais si excité que j’ai oublié de me présenter je suis Konrad Gessner, j’ai 8 ans, je souhaite devenir un soldat de l’humanité pour protéger ma mère, elle m’as élevé seul et travaille dur tous les jours pour pouvoir subvenir a nos besoin, la vie a Utopia n’est pas simple et très cher, je me demande d’ailleurs pourquoi elle veut rester ici dans cette maison miteuse, un amis m’as dit que pour le même prix je pouvais avoir une grande maison a Shiganshina, mais peut importe je suis heureux actuellement même si je n’ai pas vraiment beaucoup d’amis, la majorité ici son riche et ne souhaite pas parler avec moi, apparemment une fille m’as dit que son père refusait qu’elle parle a un fils de catin, je ne sais pas vraiment ce que sa signifie et ma mère me dit d’ignorer ce genre d’insulte. </p> 
         <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
@@ -92,7 +92,7 @@ content_page1 = [
     `,
 ];
 content_page2 = [
-    `<h3><strong>Identité</strong></h3><br><p>Nom: Gessner</p><p>Prenom: Konrad</p><br><p>Lieux de Naissance: Utopia</p><p>Date de Naissance: 13 Avril XXX</p><p>Age: 21 ans</p><br><p>Numéro D'identité: 4929 1049 6131 4085</p><p>Nombre de frère et soeurs: Fils Unique Orphelin</p><br><p>Lieux de Résidence: Trost</p><p>Evenement Notable:</p><dd> - N/A</dd><img style="width: auto; height: 30%;" src="public/img/Tampon-BS.jpg" alt=""><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
+    `<h3><strong>Identité</strong></h3><br><p>Nom: Von Horburg</p><p>Prenom: Otto</p><br><p>Lieux de Naissance: Inconnu</p><p>Date de Naissance: 18 Mars XXX</p><p>Age: 16 ans</p><br><p>Numéro D'identité: SD-2545-4085</p><p>Nombre de frère et soeurs: Deux frères</p><br><p>Lieux de Résidence: Dopel</p><p>Evenement Notable: Vivant - Noble déchu</p><dd> - N/A</dd><img style="width: auto; height: 30%;" src="public/img/Tampon-BS.jpg" alt=""><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
     `
     <h3><strong>25 Février XXX</strong></h3>
     <p> Aujourd’hui, j’ai encore une fois demandé à ma mère des information a propos de mon père comme à son habitude aucune réponse, ça commence vraiment a m’énerver je pense qu’elle devrait tout me dire je suis son fils tout de même, je suis concerné par le sujet et elle a décidé de m’y exclure.</p>
